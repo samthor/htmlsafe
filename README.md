@@ -1,0 +1,2 @@
+# htmlsafe
+Quick HTML sanitizer
